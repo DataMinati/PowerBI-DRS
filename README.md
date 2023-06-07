@@ -1,5 +1,5 @@
 # PowerBI-DRS (Detailed Reporting System)
-Dashboards, Reports and Visuals designed using PowerBI 
+### Dashboards, Reports and Visuals designed using PowerBI 
 
 | S. No. | Screenshot | Dashboard / Report ; Data Source | 
 |--------|------------|--------------------|
